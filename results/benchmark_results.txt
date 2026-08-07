@@ -1,0 +1,4 @@
+Benchmark Report
+----------------------
+Query : Telugu Movies
+Execution Time : 1.6537 seconds

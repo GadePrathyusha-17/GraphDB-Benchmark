@@ -1,0 +1,31 @@
+movie_id,title,genre,release_year,rating,director,lead_actor,language
+101,Baahubali: The Beginning,Action,2015,8.0,S. S. Rajamouli,Prabhas,Telugu
+102,RRR,Action,2022,7.8,S. S. Rajamouli,Ram Charan,Telugu
+103,Pushpa: The Rise,Action,2021,7.6,Sukumar,Allu Arjun,Telugu
+104,Kalki 2898 AD,Sci-Fi,2024,7.8,Nag Ashwin,Prabhas,Telugu
+105,Jersey,Sports,2019,8.5,Gowtam Tinnanuri,Nani,Telugu
+106,3 Idiots,Comedy,2009,8.4,Rajkumar Hirani,Aamir Khan,Hindi
+107,Dangal,Sports,2016,8.3,Nitesh Tiwari,Aamir Khan,Hindi
+108,PK,Comedy,2014,8.1,Rajkumar Hirani,Aamir Khan,Hindi
+109,Jawan,Action,2023,7.0,Atlee,Shah Rukh Khan,Hindi
+110,Pathaan,Action,2023,6.7,Siddharth Anand,Shah Rukh Khan,Hindi
+111,Vikram,Action,2022,8.3,Lokesh Kanagaraj,Kamal Haasan,Tamil
+112,Leo,Action,2023,7.2,Lokesh Kanagaraj,Vijay,Tamil
+113,Master,Action,2021,7.4,Lokesh Kanagaraj,Vijay,Tamil
+114,96,Romance,2018,8.5,C. Prem Kumar,Vijay Sethupathi,Tamil
+115,Jailer,Action,2023,7.1,Nelson Dilipkumar,Rajinikanth,Tamil
+116,KGF Chapter 1,Action,2018,8.2,Prashanth Neel,Yash,Kannada
+117,KGF Chapter 2,Action,2022,8.3,Prashanth Neel,Yash,Kannada
+118,Kantara,Thriller,2022,8.2,Rishab Shetty,Rishab Shetty,Kannada
+119,Charlie 777,Drama,2022,8.7,Kiranraj K,Rakshit Shetty,Kannada
+120,Ugramm,Action,2014,8.0,Prashanth Neel,Sriimurali,Kannada
+121,Premam,Romance,2015,8.3,Alphonse Puthren,Nivin Pauly,Malayalam
+122,Drishyam,Thriller,2013,8.3,Jeethu Joseph,Mohanlal,Malayalam
+123,Lucifer,Action,2019,7.5,Prithviraj Sukumaran,Mohanlal,Malayalam
+124,Aavesham,Comedy,2024,8.0,Jithu Madhavan,Fahadh Faasil,Malayalam
+125,2018,Drama,2023,8.4,Jude Anthany Joseph,Tovino Thomas,Malayalam
+126,Inception,Sci-Fi,2010,8.8,Christopher Nolan,Leonardo DiCaprio,English
+127,Interstellar,Sci-Fi,2014,8.7,Christopher Nolan,Matthew McConaughey,English
+128,The Dark Knight,Action,2008,9.0,Christopher Nolan,Christian Bale,English
+129,Avatar,Science Fiction,2009,7.9,James Cameron,Sam Worthington,English
+130,Titanic,Romance,1997,7.9,James Cameron,Leonardo DiCaprio,English
