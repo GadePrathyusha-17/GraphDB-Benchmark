@@ -1,4 +1,5 @@
-Benchmark Report
-----------------------
-Query : Telugu Movies
-Execution Time : 1.6537 seconds
+CognoDB Benchmark Report
+========================
+Query: Telugu Movies
+Result Count: 10
+Execution Time: 1.6434 seconds

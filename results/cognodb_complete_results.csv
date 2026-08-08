@@ -1,0 +1,6 @@
+Database,Query,Execution Time (seconds)
+CognoDB,All Movies,4.9069
+CognoDB,Telugu Movies,0.4636
+CognoDB,Rating Above 8,0.6557
+CognoDB,Released After 2020,0.3910
+CognoDB,Count Movies,0.3485
