@@ -1,8 +1,8 @@
 Benchmark Results
 =========================
 
-All Movies : 4.9069 seconds
-Telugu Movies : 0.4636 seconds
-Rating Above 8 : 0.6557 seconds
-Released After 2020 : 0.391 seconds
-Count Movies : 0.3485 seconds
+All Movies : 2.4497 seconds
+Telugu Movies : 0.2783 seconds
+Rating Above 8 : 0.3036 seconds
+Released After 2020 : 0.2736 seconds
+Count Movies : 0.2675 seconds

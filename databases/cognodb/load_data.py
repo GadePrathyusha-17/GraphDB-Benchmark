@@ -7,9 +7,9 @@ from neo4j import GraphDatabase
 
 load_dotenv()
 
-COGNODB_URI="bolt+s://db-18a2d233.databases.cognodb.com:7687"
-COGNODB_USER="cognodb"
-COGNODB_PASSWORD="905e7381d0f91c57f41c6e085d87725a"
+COGNODB_URI = os.getenv("bolt+s://db-18a2d233.databases.cognodb.com:7687")
+COGNODB_USER = os.getenv("cognodb")
+COGNODB_PASSWORD = os.getenv("905e7381d0f91c57f41c6e085d87725a")
 
 driver = GraphDatabase.driver(
     COGNODB_URI,
